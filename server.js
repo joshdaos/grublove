@@ -6,6 +6,7 @@ const app = express();
 const PORT = 5000;
 
 
+// listening for a GET req
 
 
 
