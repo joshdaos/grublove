@@ -41,7 +41,7 @@ Provide a platform to share favorited recipes.
 
 #### Technologies
 
-Front End - Javascript, HTML, CSS
+Front End - Javascript, HTML, CSS<br>
 Back End - Express.js, MongoDB, Node.js
 
 #### Entity Relationship Diagram
