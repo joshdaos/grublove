@@ -6,7 +6,7 @@
   - [MVP](#mvp)
     - [Goals](#goals)
     - [Libraries](#libraries)
-    - [Entity–relationship Diagram](#erd)
+    - [Entity–relationship Diagram](#entity–relationship-diagram)
     - [Component Hierarchy](#component-hierarchy)
     - [Helper Functions](#helper-functions)
   - [Post-MVP](#post-mvp)
