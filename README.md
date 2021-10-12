@@ -6,7 +6,7 @@
   - [MVP](#mvp)
     - [Goals](#goals)
     - [Libraries](#libraries)
-    - [Data](#data)
+    - [Entity–relationship Diagram](#erd)
     - [Component Hierarchy](#component-hierarchy)
     - [Helper Functions](#helper-functions)
   - [Post-MVP](#post-mvp)
@@ -18,6 +18,7 @@
 ## Project Planning
 
 ### Overview
+**Demo** is under maintenance..
 
 **GrubLove** is a database application that allows users to find recipes by specific ingredients. It also enables the user to add their favorite recipes so other users can try them out.
 
@@ -27,7 +28,11 @@
 
 ### MVP
 
-
+1. User can sign up and log in
+2. User can search and filter recipes by ingredients.
+3. User can add favorite recipe
+3. User can delete recipe
+4. User can edit their recipe
 
 #### Goals
 
@@ -37,7 +42,7 @@
 
 
 
-#### Data
+#### Entity–relationship Diagram
 
 
 
