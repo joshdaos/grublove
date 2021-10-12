@@ -42,7 +42,7 @@
 
 
 
-#### Entity–relationship Diagram
+#### Entity Relationship Diagram
 
 
 
