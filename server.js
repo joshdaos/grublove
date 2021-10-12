@@ -7,7 +7,9 @@ const PORT = 5000;
 
 
 // listening for a GET req
-
+app.get('/', function(req, res){
+    res.send('Hey Grub Lovers!')
+})
 
 
 
