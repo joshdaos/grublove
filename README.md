@@ -5,7 +5,7 @@
   - [Wireframes](#wireframes)
   - [MVP](#mvp)
     - [Goals](#goals)
-    - [Libraries](#libraries)
+    - [Technologies](#technologies)
     - [Entity Relationship Diagram](#entity-relationship-diagram)
     - [Component Hierarchy](#component-hierarchy)
     - [Helper Functions](#helper-functions)
@@ -39,9 +39,10 @@
 Provide a platform to share favorited recipes.
 
 
-#### Libraries
+#### Technologies
 
-
+Front End - Javascript, HTML, CSS
+Back End - Express.js, MongoDB, Node.js
 
 #### Entity Relationship Diagram
 
