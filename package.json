@@ -1,0 +1,25 @@
+{
+  "name": "grublove",
+  "version": "1.0.0",
+  "description": "Food Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshdaos/grublove.git"
+  },
+  "keywords": [
+    "grub",
+    "love",
+    "food"
+  ],
+  "author": "Josh Daos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshdaos/grublove/issues"
+  },
+  "homepage": "https://github.com/joshdaos/grublove#readme"
+}
