@@ -7,7 +7,7 @@
     - [Goals](#goals)
     - [Technologies](#technologies)
     - [Entity Relationship Diagram](#entity-relationship-diagram)
-    - [Component Hierarchy](#component-hierarchy)
+    - [File Hierarchy](#file-hierarchy)
     - [Helper Functions](#helper-functions)
   - [Post-MVP](#post-mvp)
 - [Project Delivery](#project-delivery)
